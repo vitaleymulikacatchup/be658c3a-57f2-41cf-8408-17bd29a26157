@@ -48,7 +48,7 @@ export default function Home() {
             { value: "50%", description: "Community Fund" },
             { value: "25%", description: "Development" },
             { value: "15%", description: "Marketing" },
-            { value: "10%", description: "Reserve Fund" },
+            { value: "10%", description: "Reserve Fund" }
           ]}
         />
       </div>
